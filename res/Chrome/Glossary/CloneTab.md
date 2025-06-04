@@ -1,0 +1,31 @@
+- 동일탭열기
+- 동일탭복사
+- 탭복사
+- 복사탭
+- 탭복제
+- 복제탭
+- Tab_Copy
+- TabCopy
+- CopyTab
+- Copy Tab
+- Tab Copy
+- tab Copy
+- tabCopy
+- tabcopy
+- tab-copy
+- Clone Tab
+- CloneTab
+- Clone-Tab
+- CloneTab
+- Clone_Tab
+- Clone-tab
+- clone-tab
+- clonetab
+- cloneTab
+- cloningTab
+- cloning Tab
+- Cloning Tab
+- CloningTab
+- Cloning-Tab
+- Cloning_Tab
+- cloning tab
