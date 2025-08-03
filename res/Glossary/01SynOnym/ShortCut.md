@@ -1,0 +1,7 @@
+- ShortCut
+- Shortcut
+- shortcut
+- short-cut
+- short cut
+- 단축키
+- 키

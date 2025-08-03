@@ -89,3 +89,189 @@ Shift+←+← +Ctrl+Shift+L + ← + Delete
 Ctrl+Shift+W
 ㄴEclipseKeymap
 ㄴ모든탭닫기
+
+
+# 찾기
+## 전역찾기
+- SelectBlock
+- Ctrl+Shift+F
+
+```
+- SelectBlock
+- Ctrl+C
+- Ctrl+Shift+F
+```
+```
+- SelectBlock
+- Ctrl+C
+- Ctrl+Shift+F
+- Ctrl+V
+```
+```
+- SelectBlock
+- Ctrl+C
+- →
+- Ctrl+Shift+F
+- Ctrl+V
+```
+
+
+## 지역찾기
+- SelectBlock
+- Ctrl+F
+```
+- SelectBlock
+- Ctrl+C
+- Ctrl+F
+```
+```
+- SelectBlock
+- Ctrl+C
+- Ctrl+F
+- Ctrl+V
+```
+```
+- SelectBlock
+- Ctrl+C
+- →
+- Ctrl+F
+- Ctrl+V
+```
+
+
+## 단위블럭
+- Ctrl + Shift + →
+- Ctrl + Shift + ←
+
+
+
+파일제목
+- F2
+- Ctrl + Shift + →
+
+건넘파일제목
+- F2
+- Ctrl + →
+- Ctrl + Shift + →
+
+
+## 블럭
+- Ctrl+←
+- Ctrl+End
+- Ctrl+Shift+L
+- Shift+Home
+- Shift+End
+- Ctrl+X
+- Ctrl+D
+- Ctrl+V
+
+혹은
+- Ctrl+←
+- Ctrl+End
+- Ctrl+Shift+L
+- Shift+End
+- Shift+Home
+- Ctrl+X
+- Ctrl+D
+- Ctrl+V
+
+## OverView
+탐색기
+- 개요
+- 하단배치
+
+나아가
+- 좌측드래그
+
+ㄴ아예빼버리기ㄱㄱ.
+ㄴ상당히좋음ㄱㄱ.
+
+##
+열려있는편집기
+ㄴ얘도
+ㄴ좌측으로ㄱㄱ.
+
+##
+아래로가기vs.위로가기
+아래로가기vs.위로쌓기
+아래로가기>>위로쌓기
+트리구조>>레이어구조
+내스타일
+ㄴ트리구조>>레이어구조
+ㄴ트리>>레이어
+ㄴ↘>>↗
+ㄴ↘>>↖
+ㄴ하향식>>상향식
+
+탐색기
+ㄴ폴더제목
+ㄴ개요
+ㄴ열려있는편집기
+
+개요
+열려있는편집기
+ㄴ좌측빼기
+
+
+##
+복원경우
+ㄴ우클릭
+ㄴ위치다시설정
+
+그결과
+ㄴ탐색기-열려있는편집기
+ㄴ탐색기-개요
+ㄴ들어감
+
+##
+최적
+ㄴ빼기>>넣기.
+ㄴ빼기>>그대로
+
+
+##
+개요
+ㄴ보조사이드바.
+ㄴ여기로이동.
+ㄴ이것도
+ㄴ상당히좋음.
+우클릭
+ㄴ다음으로이동
+ㄴ보조사이드바
+
+혹은
+ㄴ패널
+ㄴ여기도ㅇㅋ.
+
+기본적으로
+ㄴ기본사이드바
+ㄴ보조사이드바
+ㄴ패널
+3구성
+
+여기서
+ㄴ보조사이드바
+ㄴ잘활용안함
+ㄴ활용ㄱㄱ.
+ㄴ아싸리
+ㄴ좌측으로더ㄱㄱ.
+
+근데
+ㄴ보조사이드바
+ㄴ좌측이동
+ㄴ한계가있다.
+ㄴ기본-왼쪽
+ㄴ보조-왼쪽.
+ㄴ당해미지원.
+
+❌보조사이드바
+✅기본사이드바
+ㄴㄱㄱ.
+
+
+## Command복붙
+- Shift + Insert
+
+## 이동
+Tab
+- Tab>> → x2

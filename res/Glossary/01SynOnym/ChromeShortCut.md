@@ -1,0 +1,11 @@
+- ChromeShortCut
+- ChromeShortcut
+- ShortCut▶️ChromeShortCut
+- 📌📁ShortCutChrome
+- 📌📄ChromeShortCut
+- ShortCutChrome
+- ShortcutChrome
+- Shortcut Chrome
+- Shortcut-Chrome
+- shortcut-chrome
+- 크롬단축키

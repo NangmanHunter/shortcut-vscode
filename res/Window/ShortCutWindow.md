@@ -57,6 +57,93 @@ Win+X+A            ▶관리자터미널
 Win+X+I            ▶터미널  
 Win+,              ▶preview  
 
-
 ```
 
+## 배치화면
+- Win+→
+- Win+←
+- Win+↑
+- Win+↓
+
+
+## 파일탐색기
+```
+Alt+D ▶주소창포커스
+Ctrl+D▶새창열기
+Ctrl+Tab▶탭이동 
+Ctrl+Shfit+Tab▶좌측탭이동
+```
+
+Ctrl+Tab
+- 13
+- 13>>53
+- 13vs.53
+- 13 vs. 53
+
+Ctrl+Shift+Tab
+- 123
+- 123>>543
+- 123vs.543
+- 123 vs. 543
+
+
+
+## CloneTab
+- Alt+D
+- Ctrl+C
+- Ctrl+T
+- Alt+D
+- Ctrl+V
+- Enter
+
+
+## 최대화토글
+F11
+- 최대화
+- 일반화
+
+
+## Pdf
+- Shift+Click
+- ...
+- Enter
+
+
+
+##
+Window정렬◀️VsCode정렬
+Window정렬=VsCode정렬
+
+Github정렬↔️Window정렬
+Github정렬↔️VsCode정렬
+❌숫자고려↔️✅숫자고려
+01-0100-02↔️01-02-0100
+
+
+
+## VsCdoe열기
+- 파일탐색기
+- Alt+D
+- cmd
+- code .
+
+
+>Note
+- ```
+  - Alt+E
+  - Alt+D
+  - cmd
+  - code .
+  ```
+- ```
+  - 파일탐색기
+  - Alt+D
+  - cmd
+  - code .
+  ```
+- ```
+  - 파일탐색기
+  - 현재경로창
+  - cmd
+  - code .
+  ```

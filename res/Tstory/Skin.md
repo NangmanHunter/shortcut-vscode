@@ -1,0 +1,1 @@
+- https://github.com/search?q=tistory+skin&type=repositories

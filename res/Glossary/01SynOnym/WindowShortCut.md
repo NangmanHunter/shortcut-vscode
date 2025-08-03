@@ -1,0 +1,11 @@
+- WindowShortCut
+- WindowShortcut
+- ShortCut▶️WindowShortCut
+- 📌📁ShortCutWindow
+- 📌📄WindowShortCut
+- ShortCutWindow
+- ShortcutWindow
+- Shortcut Window
+- Shortcut-Window
+- shortcut-window
+- 윈도우단축키

@@ -1,5 +1,6 @@
 - 동일탭열기
 - 동일탭복사
+- 동일탭복제
 - 탭복사
 - 복사탭
 - 탭복제
@@ -13,6 +14,10 @@
 - tabCopy
 - tabcopy
 - tab-copy
+- TabClone
+- TabCloning
+- CloningTab
+- Cloning Tab
 - Clone Tab
 - CloneTab
 - Clone-Tab

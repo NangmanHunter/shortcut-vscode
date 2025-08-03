@@ -47,3 +47,33 @@ Shift+ScrollDown         ▶좌측스크롤
 Shift+ScrollUp           ▶우측스크롤  
 ```
 
+
+## CloneTab
+1작위
+- Alt+D+Enter
+- Alt + D + Enter
+
+2작위
+- Alt+D
+- Alt+Enter
+
+6작위
+- Alt+D
+- Ctrl+C
+- Ctrl+T
+- Alt+D
+- Ctrl+V
+- Enter
+
+
+## Google검색
+- Crtl+E
+
+
+## 새탭에서링크열기
+- Ctrl+Click
+
+```
+- 우클릭
+- 새 탭에서 링크열기
+```
