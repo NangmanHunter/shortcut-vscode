@@ -77,3 +77,7 @@ Shift+ScrollUp           ▶우측스크롤
 - 우클릭
 - 새 탭에서 링크열기
 ```
+
+
+## 모두닫기
+- Ctrl+Shift+W

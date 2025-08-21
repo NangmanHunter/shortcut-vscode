@@ -1,0 +1,11 @@
+- ToggleFoldRecursively
+- RecursivelyToggleFold
+- Fold▶️ToggleFold▶️RecursivelyToggleFold
+- RTF
+- toggleFoldRecursively
+- 재귀적으로접기토글
+- 재귀적접기토글
+- 재귀접기토글
+- 접기토글
+- 재귀적으로 접기토글
+- 재귀적으로 접기 토글

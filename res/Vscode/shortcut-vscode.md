@@ -275,3 +275,83 @@ Ctrl+Shift+W
 ## 이동
 Tab
 - Tab>> → x2
+
+
+## 탭폴더열기
+```
+- 탭우클릭
+- Shift+Alt+R
+```
+- ```
+  - 탭우클릭
+  - Shift+Alt+R
+  ```
+- ```
+  - 탭우클릭
+  - 파일 탐색기에 표시
+  ```
+
+
+
+## 접기토글
+- CustomKeyBinding
+- Ctrl+B
+
+
+## 개요
+- outline.focus
+- ❌CustomShortCut Ctrl+Shift+O
+- ✅EclipseShortCut Ctrl+F3
+- ✅CustomShortCut `Ctrl+Shift+Q`
+
+
+## ✅접근이동
+접근이동
+- 접근성 보기에서 기호로 이동
+- editor.action.accessibleViewGoToSymbol
+- ✅`Ctrl+Shift+O`
+- ❌`Ctrl+P` + `@`
+
+
+
+```
+- Ctrl+Shift+O
+```
+- ```
+  - Ctrl+Shift+O
+  ```
+- ```
+  - Ctrl+P
+  - @
+  ```
+
+
+오
+ㄴ이거
+ㄴ상당히좋음.
+ㄴ그냥
+ㄴOutLine없어도
+ㄴ이걸로쭉쭉바로보고.
+ㄴ바로이동
+ㄴ너무좋음.
+작업속도
+ㄴ극한으로
+ㄴ와.
+ㄴ이거구나.
+ㄴ터미널적
+ㄴ접근방식.
+ㄴㄹㅇ.
+ㄴㄱㄱ.
+
+더욱이
+ㄴ목차자체
+ㄴ볼때도
+ㄴ차라리
+ㄴ이걸로봐버리면됨.
+ㄴㄱㄱ.
+
+## ✅파일이동
+파일이동
+- workbench.action.quickOpen
+- Ctrl+P
+

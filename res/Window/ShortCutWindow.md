@@ -99,8 +99,14 @@ Ctrl+Shift+Tab
 
 ## 최대화토글
 F11
-- 최대화
-- 일반화
+- 창토글
+  - 최대화
+  - 일반화
+
+
+## 최소화
+- Win+↓
+- Alt+Space+N
 
 
 ## Pdf
@@ -120,30 +126,72 @@ Github정렬↔️VsCode정렬
 01-0100-02↔️01-02-0100
 
 
-
 ## VsCdoe열기
-- 파일탐색기
-- Alt+D
-- cmd
-- code .
-
-
->Note
-- ```
-  - Alt+E
-  - Alt+D
-  - cmd
-  - code .
-  ```
 - ```
   - 파일탐색기
   - Alt+D
   - cmd
   - code .
   ```
-- ```
-  - 파일탐색기
-  - 현재경로창
-  - cmd
-  - code .
-  ```
+  - ```
+    - Alt+E
+    - Alt+D
+    - cmd
+    - code .
+    ```
+  - ```
+    - 파일탐색기
+    - Alt+D
+    - cmd
+    - code .
+    ```
+  - ```
+    - 파일탐색기
+    - 현재경로창
+    - cmd
+    - code .
+    ```    
+
+
+## 단위블럭
+- Ctrl + Shift + →
+- Ctrl + Shift + ←
+
+
+연속잡기
+- Ctrl + Shift + ←
+- Ctrl + ←
+
+중간놓기
+- Ctrl Shift → + Shift
+- Ctrl Shift → + Shift + ←
+- Ctrl Shift → + ❌Ctrl 
+- Ctrl Shift → + ❌Ctrl + ←
+- Ctrl Shift → + Ctrl떼기
+
+
+## 절전모드
+- Win X + U S
+- Win X + U + S
+- Win X + Alt U S
+- Win X + Alt+U+S
+- Win X + Alt U + Alt S
+- Win X + Alt+U + Alt+S
+
+
+##
+Alt+Tab
+13vs.14
+
+
+Alt+Shift+Tab
+153vs.154
+
+
+## 화면녹화
+- Win+Alt+R
+
+
+##
+Win+3👉12
+Win+3+Shift👉125
