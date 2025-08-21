@@ -355,3 +355,15 @@ Tab
 - workbench.action.quickOpen
 - Ctrl+P
 
+
+## SwitchingTab
+- ✅Alt+Tab👉13
+- ✅Alt+Tab👉13>>14
+- ❌Alt+Tab👉14
+
+
+## InverseSwitchingTab
+- ✅Alt+Tab+Shift👉145
+- ✅Alt+Shift+Tab👉145>>154
+- ❌Alt+Shift+Tab👉154
+
