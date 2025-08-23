@@ -1,0 +1,174 @@
+{
+	// Place your GLOBAL snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"pre": {
+		"scope": "markdown",
+		"prefix": "pre",
+		"body": [
+			"<pre>",
+			"$1",
+			"</pre>$2",
+		],
+		"description": "pre"
+	}
+	,
+	"pre-form": {
+		"scope": "markdown",
+		"prefix": "pre",
+		"body": [
+			"#",
+			"<pre>",
+			"$1",
+			"</pre>$2",
+		],
+		"description": "pre-form"
+	}
+	,
+	"```-form": {
+		"scope": "markdown",
+		"prefix": "```",
+		"body": [
+			"#",
+			"```",
+			"$1",
+			"```$2",
+		],
+		"description": "```-form"
+	}
+	,
+	"```": {
+		"scope": "markdown",
+		"prefix": "```",
+		"body": [
+			"```",
+			"$1",
+			"```$2",
+		],
+		"description": "```"
+	}
+
+	,
+	"href": {
+		"scope": "markdown",
+		"prefix": "!",
+		"body": [
+			"[$1]($2)$3",
+		],
+		"description": "href"
+	}
+	,
+	"img": {
+		"scope": "markdown",
+		"prefix": "!",
+		"body": [
+			"![]($1)$2",
+		],
+		"description": "img"
+	}
+
+
+
+
+	,
+	"수식입력": {
+		"scope": "markdown",
+		"prefix": "!",
+		"body": [
+			"$$1$",
+		],
+		"description": "수식입력"
+	}
+
+
+
+	,
+	"link": {
+		"scope": "markdown",
+		"prefix": "link",
+		"body": [
+			"<link rel=\"stylesheet\" href=\"../_res/darkmode.css\">",
+		],
+		"description": "link"
+	}
+
+	,
+	"span-r": {
+		"scope": "markdown",
+		"prefix": "span",
+		"body": [
+			"<span class=\"r\">$1</span>$2",
+		],
+		"description": "span-r"
+	}
+	,
+	"span-b": {
+		"scope": "markdown",
+		"prefix": "span",
+		"body": [
+			"<span class=\"b\">$1</span>$2",
+		],
+		"description": "span-b"
+	}
+	,
+	"span-t": {
+		"scope": "markdown",
+		"prefix": "span",
+		"body": [
+			"<span class=\"t\">$1</span>$2",
+		],
+		"description": "span-t"
+	}
+
+
+
+
+	,
+	"font-r": {
+		"scope": "markdown",
+		"prefix": "font",
+		"body": [
+			"<font color=\"crimson\"       >$1</font>$2"
+		],
+		"description": "span-r"
+	}
+	,
+	"font-b": {
+		"scope": "markdown",
+		"prefix": "font",
+		"body": [
+			"<font color=\"cornflowerblue\">$1</font>$2"
+		],
+		"description": "span-b"
+	}
+
+
+	,
+	"details": {
+		"scope": "markdown",
+		"prefix": "details",
+		"body": [
+			"<details>",
+			"    <summary>$1</summary>",
+			"    $2",
+			"</details>"
+		],
+		"description": "span-b"
+	}
+
+
+}

@@ -355,3 +355,10 @@ Tab
 - workbench.action.quickOpen
 - Ctrl+P
 
+
+
+
+##
+탭폴더열기
+탭제목아래-탭경로줄-클릭
+Ctrl+Shift+R
