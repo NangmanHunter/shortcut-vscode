@@ -362,3 +362,15 @@ Tab
 탭폴더열기
 탭제목아래-탭경로줄-클릭
 Ctrl+Shift+R
+
+## SwitchingTab
+- ✅Alt+Tab👉13
+- ✅Alt+Tab👉13>>14
+- ❌Alt+Tab👉14
+
+
+## InverseSwitchingTab
+- ✅Alt+Tab+Shift👉145
+- ✅Alt+Shift+Tab👉145>>154
+- ❌Alt+Shift+Tab👉154
+
