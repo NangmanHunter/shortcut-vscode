@@ -367,3 +367,7 @@ Tab
 - ✅Alt+Shift+Tab👉145>>154
 - ❌Alt+Shift+Tab👉154
 
+
+## TerminalPaste
+- Ctrl+Shift+V
+- Shift+Insert

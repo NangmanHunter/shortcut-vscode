@@ -1,0 +1,7 @@
+- C = Copy (복사) → Copy의 첫 글자.
+- C = Copy (복사) 
+- C = Copy
+- C
+- Copy
+- 복사
+- Copy의 첫 글자.

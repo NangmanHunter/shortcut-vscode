@@ -1,0 +1,4 @@
+- TerminalPaste
+- Terminal-Paste
+- 터미널붙여넣기
+- 터미널-붙여넣기
